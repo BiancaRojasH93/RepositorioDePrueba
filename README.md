@@ -1,2 +1,2 @@
-# RepositorioDePrueba
- Ejemplo de Repositorio
+# RepositorioDePrueba en Github
+ Ejemplo de Repositorio utilizando Github
